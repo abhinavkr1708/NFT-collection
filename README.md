@@ -1,7 +1,7 @@
 # NFT (Non-Fungible Token) Collection
 
 Enables whitelisted users to mint a collection of NFTs named `Brahmaputra NFTs` on the Sepolia testnet. 
-The project can be viewed [here](https://nft-collection-five-mu.vercel.app/). <br />
+The project can be viewed [here](https://nft-collection-swart-two.vercel.app/). <br />
 The contract can be accessed [here](https://sepolia.etherscan.io/address/0xE68EFffB7caD10C0AdD9522055c4c9F2ee0e2393). <br />
 The collection can be viewed [here](https://sepolia.etherscan.io/token/0xe68efffb7cad10c0add9522055c4c9f2ee0e2393).
 
